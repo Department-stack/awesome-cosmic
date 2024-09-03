@@ -1,12 +1,12 @@
 # Awesome Cosmic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="media/logo-kde-grey.svg" align="right" width="144">](http://www.kde.org)
+[<img src="media/cosmic logo white + gradient mark.svg" align="right" width="144">]([https://system76.com/cosmic])
 
 > A curated list of _awesome_ apps, extensions, themes and tools for the Cosmic Desktop Environment.
 
-[KDE](https://kde.org/) is a free software community dedicated to creating an open and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon.
+[Cosmic]([https://system76.com/cosmic]) is a free software community dedicated to creating an open and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon.
 
-> Items marked with 📌 (pushpin) are projects hosted on KDE's own infrastructure and developed by the KDE community.
+> Items marked with 📌 are projects hosted and devloped on system76's own infrastructure.
 
 ## Contents
 
@@ -61,9 +61,8 @@
 - [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more 📌.
 - [KDE Invent](https://invent.kde.org/) - Discover KDE projects, groups and snippets 📌.
 - [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
-- [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
-- [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
-- [KDE Configs](https://github.com/shalva97/kde-configuration-files) - List of KDE configuration files and more.
+- [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux Comsic Wiki.
+- [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo Cosmic Wiki.
 
 ## Articles
 
@@ -74,7 +73,6 @@
 ## Communities
 
 - [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
-- [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations .
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/cosmic) - Questions tagged with `cosmic`.
 
 ## License
