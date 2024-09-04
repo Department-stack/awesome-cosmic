@@ -25,7 +25,7 @@
 - [Oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the Cosmic desktop.
 - [Starry-Dex](https://github.com/mariinkys/starrydex) - Pokédex application for the Cosmic desktop.
 - [Cosmic-Dirstat](https://github.com/Koranir/cosmic-dirstat) - KDirStat-esque disk usage analyzer using the libcosmic toolkit.
-- [Sosmic-Weather](https://github.com/jwestall/cosmic-weather) - A simple weather application for the Cosmic Desktop.
+- [Cosmic-Weather](https://github.com/jwestall/cosmic-weather) - A simple weather application for the Cosmic Desktop.
 - [Cosmic-Ext-2048](https://github.com/Kartonrealista/cosmic-ext-2048) - A 2048 game written in libcosmic and Rust.
 
 
