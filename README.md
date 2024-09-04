@@ -18,12 +18,29 @@
 ---
 
 ## Applications
-[Oboete](https://github.com/mariinkys/oboete) -
-[Starrydex](https://github.com/mariinkys/starrydex) -
+- [tasks](https://github.com/edfloreshz/tasks) - A simple task management application for the Cosmic desktop.
+- [cosmic-ext-calculator](https://github.com/edfloreshz/cosmic-ext-calculator) - A calculator application for the COSMIC desktop.
+- [fan-control](https://github.com/wiiznokes/fan-control) - Control your fans with different behaviors.
+- [cosmic-webapps](https://github.com/elevenhsoft/WebApps) - Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice.
+- [cosmic-color-picker](https://github.com/PixelDoted/cosmic-color-picker) - A color picker for COSMIC.
+- [oboete](https://github.com/mariinkys/oboete) - A simple flashcards application for the COSMIC™ desktop.
+- [starry-dex](https://github.com/mariinkys/starrydex) - Pokédex application for the COSMIC™ desktop.
+- [cosmic-dirstat](https://github.com/Koranir/cosmic-dirstat) - KDirStat-esque disk usage analyzer using the libcosmic toolkit.
+- [cosmic-weather](https://github.com/jwestall/cosmic-weather) - A simple weather application for the COSMIC™ Desktop.
+- [cosmic-ext-2048](https://github.com/Kartonrealista/cosmic-ext-2048) - A 2048 game written in libcosmic and Rust.
+
 
 
 ## Customization
-- [Clipboard-manager](https://github.com/wiiznokes/clipboard-manager)
+- [cosmic-applet-apps-menu](https://github.com/leb-kuchen/cosmic-applet-apps-menu) - Category based menu for apps.
+- [cosmic-applet-places-status-indicator](https://github.com/leb-kuchen/cosmic-applet-places-status-indicator) - Menu for quickly navigating places in the system.
+- [clipboard-manager](https://github.com/wiiznokes/clipboard-manager) - Clipboard manager for Cosmic.
+- [cosmic-applet-emoji-selector](https://github.com/leb-kuchen/cosmic-applet-emoji-selector) - Emoji selector.
+- [cosmic-noise](https://github.com/bq-wrongway/cosmic-noise) - Applet for playing background noise.
+- [cosmic-applet-ollama](https://github.com/elevenhsoft/cosmic-applet-ollama) - Applet for Ollama.
+- [cosmic-ext-applet-external-monitor-brightness](https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness) - Change brightness of external monitors via DDC/CI protocol.
+- [cosmic-applet-minimon](https://github.com/Hyperchaotic/minimon-applet) - Applet for displaying CPU and RAM utilization.
+- [cosmic-ext-applet-system-monitor](https://github.com/D-Brox/cosmic-ext-applet-system-monitor) - Configurable system monitor applet.
 - [Cosmic-Tweaks](https://github.com/cosmic-utils/cosmic-tweaks)
 - [Cosmic-Themes](https://cosmic-themes.org/)
 
