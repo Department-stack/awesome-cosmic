@@ -24,7 +24,7 @@
 ## Customization
 
 #### Themes
-
+(https://cosmic-themes.org/)
 
 
 ## Documentation and Resources
@@ -34,19 +34,18 @@
 
 ## Articles
 
-- []() - The official Cosmic news website .
-- []() - A blog of a cosmic contributor.
+- [Official System76 Blog](https://blog.system76.com/)
 
 
 ## Communities
 
-- [Redlib](https://libreddit.oxymagnesium.com/r/pop_os/) - Pop! OS reddit community
-- [Redlib](https://libreddit.oxymagnesium.com/r/System76/) - System76 reddit community
-- [Redlib](https://libreddit.oxymagnesium.com/r/COSMICDE/) - Cosmic desktop environment reddit community
+- [Pop! OS reddit community](https://libreddit.oxymagnesium.com/r/pop_os/)
+- [System76 reddit community](https://libreddit.oxymagnesium.com/r/System76/)
+- [Cosmic desktop environment reddit community](https://libreddit.oxymagnesium.com/r/COSMICDE/)
   
-- [Lemmy](https://lemmy.ml/c/pop_os/) - Lemmy Pop! OS lemmy community
-- [Lemmy](https://lemmy.ml/c/system76/) - Lemmy System76 lemmy community
-- [Lemmy](https://lemmy.ml/c/cosmic/) - Lemmy Cosmic lemmy community
+- [Lemmy Pop! OS lemmy community](https://lemmy.ml/c/pop_os/)
+- [Lemmy System76 lemmy community](https://lemmy.ml/c/system76/)
+- [Lemmy Cosmic lemmy community](https://lemmy.ml/c/cosmic/)
   
 - [Mattermost](https://chat.pop-os.org/pop-os/) - Offical Pop! OS chatroom
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/cosmic) - Questions tagged with `cosmic`.
@@ -54,3 +53,4 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
