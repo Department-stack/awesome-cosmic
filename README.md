@@ -53,15 +53,15 @@
 
 
 ## Communities
-- [Pop! OS Reddit Community](https://libreddit.oxymagnesium.com/r/pop_os/)
+- [Pop!_OS Reddit Community](https://libreddit.oxymagnesium.com/r/pop_os/)
 - [System76 Reddit community](https://libreddit.oxymagnesium.com/r/System76/)
 - [Cosmic Desktop Environment Reddit Community](https://libreddit.oxymagnesium.com/r/COSMICDE/)
 
-- [Lemmy Pop! OS Community](https://lemmy.ml/c/pop_os/)
+- [Lemmy Pop!_OS Community](https://lemmy.world/c/pop_os)
 - [Lemmy System76 Community](https://lemmy.ml/c/system76/)
 - [Lemmy Cosmic Community](https://lemmy.ml/c/cosmic/)
   
-- [Offical Pop! OS Chatroom](https://chat.pop-os.org/pop-os/)📌
+- [Offical Pop!_OS Chatroom](https://chat.pop-os.org/pop-os/)📌
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/cosmic) - Questions tagged with `cosmic`.
 
 ## License
