@@ -8,19 +8,19 @@
 
 > An incomplete curated list of _awesome_ apps, extensions, themes and tools for the Cosmic Desktop Environment.
 
-[System76]([https://system76.com/]) is dedicated to creating an open and user-friendly computing experience, while also offering an advanced graphical desktop.
+<a href="https://system76.com/">System<img src="https://lemmy.world/pictrs/image/2eb16e80-e1ca-4fb4-bd0d-5ef7e1732cc9.png" alt="System76 icon" width="20" height="20"/></a> is dedicated to creating an open and user-friendly computing experience, while also offering an advanced graphical desktop.
 
 > Items marked with 📌 are projects hosted and developed on system76's own infrastructure.
 
 ## Contents
-- [Applications](#applications)
-- [Customization](#customization)
-- [Documentation](#documentation)
-- [Articles](#articles)
-- [Communities](#communities)
+- [📱 Applications](#applications)
+- [🎨 Customization](#customization)
+- [📃 Documentation and Resources](#documentation-and-resources)
+- [📰 Articles](#articles)
+- [👥 Communities](#communities)
 
 
-## Applications
+## 📱 Applications
 - [Tasks](https://github.com/edfloreshz/tasks) - A simple task management application for the Cosmic desktop.
 - [Cosmic-Ext-Calculator](https://github.com/edfloreshz/cosmic-ext-calculator) - A calculator application for the Cosmic desktop.
 - [Fan-Control](https://github.com/wiiznokes/fan-control) - Control your fans with different behaviors.
@@ -34,7 +34,7 @@
 
 
 
-## Customization
+## 🎨 Customization
 - [Cosmic-Applet-Apps-Menu](https://github.com/leb-kuchen/cosmic-applet-apps-menu) - Category based menu for apps.
 - [Cosmic-Applet-Places-Status-Indicator](https://github.com/leb-kuchen/cosmic-applet-places-status-indicator) - Menu for quickly navigating places in the system.
 - [Clipboard-Manager](https://github.com/wiiznokes/clipboard-manager) - Clipboard manager for Cosmic.
@@ -48,26 +48,25 @@
 - [Cosmic-Themes](https://cosmic-themes.org/) - Website hosting user uploadable themes.
 
 
-## Documentation and Resources
+## 📃 Documentation and Resources
 - [Libcosmic toolkit documentation](https://pop-os.github.io/libcosmic-book/introduction.html)📌
-- [ArchWiki](https://wiki.archlinux.org/index.php/COSMIC) - Arch Linux Comsic Wiki.
+- <img src="https://gitlab.archlinux.org/uploads/-/system/group/avatar/23/iconfinder_archlinux_386451.png" alt="Arch Linux icon" width="20" height="20"/> [Arch Wiki: COSMIC](https://wiki.archlinux.org/index.php/COSMIC) 
+
+## 📰 Articles
+- <img src="https://lemmy.world/pictrs/image/2eb16e80-e1ca-4fb4-bd0d-5ef7e1732cc9.png" alt="System76 icon" width="20" height="20"/> [Official System76 Blog](https://blog.system76.com/)📌
 
 
-## Articles
-- [Official System76 Blog](https://blog.system76.com/)📌
+## 👥 Communities
+- [Pop!_OS Reddit Community](https://farside.link/redlib/r/pop_os/) <img src="https://lemmy.world/pictrs/image/ac0c7ffa-b719-46fe-982f-2e09cd939760.png" alt="Pop!_OS icon" width="20" height="20"/> 
+- [System76 Reddit Community](https://farside.link/redlib/r/System76/) <img src="https://lemmy.world/pictrs/image/2eb16e80-e1ca-4fb4-bd0d-5ef7e1732cc9.png" alt="System76 icon" width="20" height="20"/> 
+- [Cosmic Desktop Environment Reddit Community](https://farside.link/redlib/r/COSMICDE/) <img src="https://images.prismic.io/system76/ZnBla5m069VX10Kz_cosmic-sectiontutorial-orange.png" alt="COSMIC icon" width="20" height="20"/> 
 
-
-## Communities
-- [Pop!_OS Reddit Community](https://farside.link/redlib/r/pop_os/)
-- [System76 Reddit Community](https://farside.link/redlib/r/System76/)
-- [Cosmic Desktop Environment Reddit Community](https://farside.link/redlib/r/COSMICDE/)
-
-- [Lemmy Pop!_OS Community](https://lemmy.world/c/pop_os)
-- [Lemmy System76 Community](https://lemmy.ml/c/system76/)
-- [Lemmy Cosmic Community](https://lemmy.ml/c/cosmic/)
+- [Lemmy Pop!_OS Community](https://lemmy.world/c/pop_os) <img src="https://lemmy.world/pictrs/image/ac0c7ffa-b719-46fe-982f-2e09cd939760.png" alt="Pop!_OS icon" width="20" height="20"/> 
+- [Lemmy System76 Community](https://lemmy.ml/c/system76/) <img src="https://lemmy.world/pictrs/image/2eb16e80-e1ca-4fb4-bd0d-5ef7e1732cc9.png" alt="System76 icon" width="20" height="20"/> 
+- [Lemmy Cosmic Community](https://lemmy.ml/c/cosmic/) <img src="https://images.prismic.io/system76/ZnBla5m069VX10Kz_cosmic-sectiontutorial-orange.png" alt="COSMIC icon" width="20" height="20"/>
   
-- [Offical Pop!_OS Chatroom](https://chat.pop-os.org/pop-os/)📌
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/cosmic) - Questions tagged with `cosmic`.
+- [Offical Pop!_OS Chatroom](https://chat.pop-os.org/pop-os/)📌 <img src="https://lemmy.world/pictrs/image/ac0c7ffa-b719-46fe-982f-2e09cd939760.png" alt="Pop!_OS icon" width="20" height="20"/> 
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/cosmic) - Questions tagged with `cosmic`. <img src="https://images.prismic.io/system76/ZnBla5m069VX10Kz_cosmic-sectiontutorial-orange.png" alt="COSMIC icon" width="20" height="20"/> 
 
-## License
+## ⚖️ License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
