@@ -10,7 +10,7 @@
 
 [System76]([https://system76.com/]) is dedicated to creating an open and user-friendly computing experience, while also offering an advanced graphical desktop.
 
-> Items marked with 📌 are projects hosted and devloped on system76's own infrastructure.
+> Items marked with 📌 are projects hosted and developed on system76's own infrastructure.
 
 ## Contents
 - [Applications](#applications)
@@ -49,6 +49,7 @@
 
 
 ## Documentation and Resources
+- [Libcosmic toolkit documentation](https://pop-os.github.io/libcosmic-book/introduction.html)📌
 - [ArchWiki](https://wiki.archlinux.org/index.php/COSMIC) - Arch Linux Comsic Wiki.
 
 
@@ -58,7 +59,7 @@
 
 ## Communities
 - [Pop!_OS Reddit Community](https://libreddit.oxymagnesium.com/r/pop_os/)
-- [System76 Reddit community](https://libreddit.oxymagnesium.com/r/System76/)
+- [System76 Reddit Community](https://libreddit.oxymagnesium.com/r/System76/)
 - [Cosmic Desktop Environment Reddit Community](https://libreddit.oxymagnesium.com/r/COSMICDE/)
 
 - [Lemmy Pop!_OS Community](https://lemmy.world/c/pop_os)
