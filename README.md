@@ -1,7 +1,7 @@
 # Awesome Cosmic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img width="460" height="300" src="media/cosmic logo white + gradient mark.svg">
+  <img width="300" height="300" src="media/cosmic logo white + gradient mark.svg">
 </p>
 
 <!-- <img src="media/cosmic logo white + gradient mark.svg" align="right" width="200" style="float: right;"> -->
