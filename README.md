@@ -58,9 +58,9 @@
 
 
 ## Communities
-- [Pop!_OS Reddit Community](https://libreddit.oxymagnesium.com/r/pop_os/)
-- [System76 Reddit Community](https://libreddit.oxymagnesium.com/r/System76/)
-- [Cosmic Desktop Environment Reddit Community](https://libreddit.oxymagnesium.com/r/COSMICDE/)
+- [Pop!_OS Reddit Community](https://farside.link/redlib/r/pop_os/)
+- [System76 Reddit Community](https://farside.link/redlib/r/System76/)
+- [Cosmic Desktop Environment Reddit Community](https://farside.link/redlib/r/COSMICDE/)
 
 - [Lemmy Pop!_OS Community](https://lemmy.world/c/pop_os)
 - [Lemmy System76 Community](https://lemmy.ml/c/system76/)
