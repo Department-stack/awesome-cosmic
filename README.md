@@ -1,6 +1,9 @@
 # Awesome Cosmic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="media/cosmic logo white + gradient mark.svg" align="right" width="200" style="float: right;">
+<p align="center">
+  <img width="460" height="300" src="media/cosmic logo white + gradient mark.svg">
+</p>
+<!-- <img src="media/cosmic logo white + gradient mark.svg" align="right" width="200" style="float: right;">
 
 > An incomplete curated list of _awesome_ apps, extensions, themes and tools for the Cosmic Desktop Environment.
 
