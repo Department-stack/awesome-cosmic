@@ -1,8 +1,8 @@
 # Awesome Cosmic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-> An incomplete curated list of _awesome_ apps, extensions, themes and tools for the Cosmic Desktop Environment. [<img src="media/cosmic logo white + gradient mark.svg" align="right" width="160">]([https://system76.com/cosmic])
-
+> An incomplete curated list of _awesome_ apps, extensions, themes and tools for the Cosmic Desktop Environment.
+[<img src="media/cosmic logo white + gradient mark.svg" align="right" width="160">]([https://system76.com/cosmic])
 [System76]([https://system76.com/]) is dedicated to creating an open and user-friendly computing experience, while also offering an advanced graphical desktop.
 
 > Items marked with 📌 are projects hosted and devloped on system76's own infrastructure.
