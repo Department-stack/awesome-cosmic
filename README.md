@@ -13,11 +13,11 @@
 > Items marked with 📌 are projects hosted and developed on system76's own infrastructure.
 
 ## Contents
-- [📱 Applications](#applications)
-- [🎨 Customization](#customization)
-- [📃 Documentation and Resources](#documentation-and-resources)
-- [📰 Articles](#articles)
-- [👥 Communities](#communities)
+- [📱 Applications](#-applications)
+- [🎨 Customization](#-customization)
+- [📃 Documentation and Resources](#-documentation-and-resources)
+- [📰 Articles](#-articles)
+- [👥 Communities](#-communities)
 
 
 ## 📱 Applications
